@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "fr.effidic.cartobizbe",
+    "packageFolder": "fr/effidic/cartobizbe",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "OGM5NTk5ZTU1OGNhNWIyZjEwYzkyYjRhMWI0MzQ4Zjc3MDdmZWNmMzUyOTY2Njg3ZGIyNmFlODcwY2JhZTc0NWI0NWU2ZGEyMmIyMTJkZTJjMDIxNDc5NGM3NDllYzI0OGJkMzZiZGUyY2Q1MjhlZDNjOGQwYjUzNWNiNmY1MmQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "stacquet",
+  "repository-name": "jhipster-sample-application"
+}
